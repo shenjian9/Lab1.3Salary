@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1.3Salary</string>
+    <string name="input_Salary">Salary(monthly)</string>
+    <string name="input_Vehicle_Price">Vehicle Price</string>
+    <string name="downPayment">DownPayment</string>
+    <string name="interest_Rate">Interest Rate</string>
+    <string name="repayment_mouth">Repayment Mouth</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+</resources>
